@@ -41,7 +41,7 @@ public class CertusUserServiceApplication {
 
 	@Autowired
 	private Environment env;
-g
+
     @Autowired
     private CommonUtilities commonUtilities;
 
