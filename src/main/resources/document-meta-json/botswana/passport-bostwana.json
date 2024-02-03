@@ -1,0 +1,45 @@
+{
+  "docId": 8,
+  "metadata": [
+    {
+      "type": "textbox",
+      "key": "passportcardNumber",
+      "format": "text",
+      "label": "Passport Number",
+      "placeholderText": "Passport Number",
+      "validation": {
+        "mandatory": true
+      }
+    },
+    {
+      "type": "textbox",
+      "key": "username",
+      "format": "text",
+      "label": "Passport Holder Name",
+      "placeholderText": "Passport Holder Name",
+      "validation": {
+        "mandatory": true
+      }
+    },
+    {
+      "type": "date",
+      "key": "expiryDate",
+      "format": "dd/MM/yyyy",
+      "label": "Expiry Date",
+      "placeholderText": "DD/MM/YYYY",
+      "validation": {
+        "mandatory": true
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "key": "passportPage",
+      "label": "Front Page Of Passport",
+      "mandatory": true,
+      "fileDetails": {
+        "key": "filename"
+      }
+    }
+  ]
+}

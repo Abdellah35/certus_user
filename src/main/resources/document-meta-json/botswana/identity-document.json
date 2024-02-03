@@ -1,0 +1,37 @@
+{
+  "docId": 7,
+  "metadata": [
+    {
+      "type": "textbox",
+      "key": "cardNumber",
+      "format": "number",
+      "label": "Card Number",
+      "placeholderText": "Identity Card/Omang ",
+      "validation": {
+        "mandatory": true,
+        "maxLength": 9,
+        "minLength": 9
+      }
+    },
+    {
+      "type": "date",
+      "key": "expiryDate",
+      "format": "dd/MM/yyyy",
+      "label": "Expiry Date",
+      "placeholderText": "DD/MM/YYYY",
+      "validation": {
+        "mandatory": true
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "key": "firstPage",
+      "label": "Attach ID Copy",
+      "mandatory": true,
+      "fileDetails": {
+        "key": "firstPage"
+      }
+    }
+  ]
+}

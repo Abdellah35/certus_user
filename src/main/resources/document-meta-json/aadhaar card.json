@@ -1,0 +1,72 @@
+{
+	"docId": 1,
+	"metadata": [
+		{
+			"type": "textbox",
+			"key": "cardNumber",
+			"format": "number",
+			"label": "Aadhaar Card Number",
+			"placeholderText": "Aadhaar Card Number",
+			"validation": {
+				"mandatory": true,
+				"maxLength": 12,
+				"minLength": 12
+			}
+		},
+		{
+			"type": "textbox",
+			"key": "username",
+			"format": "text",
+			"label": "Name",
+			"placeholderText": "Holder Name on card",
+			"validation": {
+				"mandatory": true
+			}
+		},
+		{
+			"type": "date",
+			"key": "dob",
+			"format": "dd/MM/yyyy",
+			"label": "Date of Birth",
+			"placeholderText": "dd/MM/yyyy",
+			"validation": {
+				"mandatory": true,
+				"maxDate": "today"
+			}
+		},
+		{
+			"type": "select",
+			"key": "gender",
+			"format": null,
+			"label": "Gender",
+			"placeholderText": null,
+			"options": [
+				{
+					"value": null,
+					"name": "--Select--"
+				},
+				{
+					"value": "Male",
+					"name": "Male"
+				},
+				{
+					"value": "Female",
+					"name": "Female"
+				}
+			],
+			"validation": {
+				"mandatory": true
+			}
+		}
+	],
+	"attachments": [
+		{
+			"key": "firstPage",
+			"label": "First Page",
+			"mandatory": true,
+			"fileDetails": {
+				"key": "filename"
+			}
+		}
+	]
+}

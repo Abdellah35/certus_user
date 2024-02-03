@@ -1,0 +1,25 @@
+{
+  "docId": 12,
+  "metadata": [
+    {
+      "type": "textbox",
+      "key": "companyNumber",
+      "format": "number",
+      "label": "Company Number",
+      "placeholderText": "Company Number",
+      "validation": {
+        "mandatory": true
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "key": "firstPage",
+      "label": "Certificate of Incorporation",
+      "mandatory": true,
+      "fileDetails": {
+        "key": "firstPage"
+      }
+    }
+  ]
+}

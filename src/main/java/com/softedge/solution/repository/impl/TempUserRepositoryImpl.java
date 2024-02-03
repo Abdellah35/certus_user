@@ -1,0 +1,128 @@
+package com.softedge.solution.repository.impl;
+
+import com.softedge.solution.exceptionhandlers.GenericExceptionHandler;
+import com.softedge.solution.exceptionhandlers.custom.GenericModuleException;
+import com.softedge.solution.repomodels.TempUser;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.dao.EmptyResultDataAccessException;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.jdbc.core.RowMapper;
+import org.springframework.jdbc.core.namedparam.BeanPropertySqlParameterSource;
+import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
+import org.springframework.jdbc.core.namedparam.SqlParameterSource;
+import org.springframework.jdbc.support.GeneratedKeyHolder;
+import org.springframework.jdbc.support.KeyHolder;
+import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Propagation;
+import org.springframework.transaction.annotation.Transactional;
+
+import javax.sql.DataSource;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.HashMap;
+import java.util.Map;
+
+@Repository
+@Transactional
+public class TempUserRepositoryImpl {
+
+    private Logger logger = LoggerFactory.getLogger(this.getClass());
+
+    private JdbcTemplate jdbcTemplate;
+    private NamedParameterJdbcTemplate namedParameterJdbcTemplate;
+
+    @Autowired
+    public void setDataSource(@Qualifier("core-db") DataSource dataSource) {
+        this.namedParameterJdbcTemplate = new NamedParameterJdbcTemplate(dataSource);
+        this.jdbcTemplate = new JdbcTemplate(dataSource);
+    }
+
+    @Transactional(propagation = Propagation.REQUIRED)
+    public Long saveTempUser(TempUser tempUser)  throws GenericModuleException {
+        try {
+            KeyHolder keyHolder = new GeneratedKeyHolder();
+            String sql = "INSERT INTO certus_core_db.temp_user_tbl " +
+                    "(name, email_id, " +
+                    "created_by, created_at) " +
+                    "VALUES(:name, :emailId, " +
+                    ":createdBy, :createdAt)";
+            logger.info("Executing the query to save temp user table -> {}", sql);
+            SqlParameterSource fileParameters = new BeanPropertySqlParameterSource(tempUser);
+            namedParameterJdbcTemplate.update(sql, fileParameters, keyHolder);
+            return keyHolder.getKey().longValue();
+           // return (long) addedId;
+        } catch (Exception e) {
+            logger.error("Error {}",e);
+            throw GenericExceptionHandler.exceptionHandler(e, TempUserRepositoryImpl.class);
+        }
+    }
+
+
+    public Boolean deleteTempUser(Long id) throws GenericModuleException {
+
+        try {
+            Map<String, Long> parameter = new HashMap<>();
+            parameter.put("id", id);
+
+            String sql = "delete from certus_core_db.temp_user_tbl " +
+                    "where id=:id";
+            logger.info("Executing the delete query for temp user tbl -> {}", sql);
+            int row = namedParameterJdbcTemplate.update(sql, parameter);
+            if(row>0){
+                return true;
+            }
+            else{
+                return false;
+            }
+
+        } catch (Exception e) {
+            logger.error("Error {}",e);
+            throw GenericExceptionHandler.exceptionHandler(e, TempUserRepositoryImpl.class);
+        }
+
+    }
+
+
+
+    public TempUser getTempUserByEmailId(String emailId) throws GenericModuleException{
+        TempUser tempUser = null;
+        try {
+            Map<String, String> parameter = new HashMap<>();
+            parameter.put("emailId", emailId);
+            String tmpUserDetailsSql = "select * " +
+                    "from " +
+                    "temp_user_tbl tut " +
+                    "where " +
+                    "tut.email_id =:emailId";
+            tempUser = namedParameterJdbcTemplate.queryForObject(tmpUserDetailsSql, parameter, new RowMapper<TempUser>() {
+
+                @Override
+                public TempUser mapRow(ResultSet resultSet, int i) throws SQLException {
+                    TempUser user = new TempUser();
+                    user.setEmailId(resultSet.getString("email_id"));
+                    user.setName(resultSet.getString("name"));
+                    user.setId(resultSet.getLong("id"));
+                    user.setCreatedBy(resultSet.getString("created_by"));
+                    user.setCreatedAt(resultSet.getDate("created_at"));
+                    return user;
+                }
+            });
+
+        }
+        catch (EmptyResultDataAccessException e) {
+            return tempUser;
+        }
+        catch (Exception e) {
+            logger.error("Error {}",e);
+            throw GenericExceptionHandler.exceptionHandler(e, TempUserRepositoryImpl.class);
+        }
+        return tempUser;
+    }
+
+
+}

@@ -1,0 +1,129 @@
+{
+	"docId": 3,
+	"metadata": [
+		{
+			"type": "textbox",
+			"key": "cardNumber",
+			"format": "number",
+			"label": "IT Card Number",
+			"placeholderText": "IT Card Number",
+			"validation": {
+				"mandatory": true,
+				"maxLength": 12,
+				"minLength": 12
+			}
+		},
+		{
+			"type": "textbox",
+			"key": "username",
+			"format": "text",
+			"label": "Name",
+			"placeholderText": "Holder Name on card",
+			"validation": {
+				"mandatory": true
+			}
+		},
+		{
+			"type": "date",
+			"key": "dob",
+			"format": "dd/MM/yyyy",
+			"label": "Date of Birth",
+			"placeholderText": "dd/MM/yyyy",
+			"validation": {
+				"mandatory": true,
+				"maxDate": "today"
+			}
+		},
+		{
+			"type":"checkbox",
+			"key": "rcStage",
+			"format": null,
+			"label" :"Attribute 002",
+			"placeholderText":null,
+
+			"options":[
+				{"value":"value1","name":"display Name1","checked":true},
+				{"value":"value2","name":"display Name2","checked":true},
+				{"value":"value3","name":"display Name3","checked":false}
+			],
+			"validation": {
+				"mandatory": true
+			}
+		},
+		{
+			"type":"radio",
+			"key": "radioAttribute",
+			"format": null,
+			"label" :"Attribute 002",
+			"placeholderText":null,
+
+			"options":[
+				{"value":"value1","name":"display Name1","checked":true},
+				{"value":"value2","name":"display Name2","checked":false},
+				{"value":"value3","name":"display Name3","checked":false}
+			],
+			"validation": {
+				"mandatory": true
+			}
+		},
+
+		{
+			"type":"radio",
+			"key": "radioAttributeNew",
+			"format": null,
+			"label" :"Attribute 003",
+			"placeholderText":null,
+
+			"options":[
+				{"value":"value1","name":"display Name1","checked":false},
+				{"value":"value2","name":"display Name2","checked":false},
+				{"value":"value3","name":"display Name3","checked":false}
+			],
+			"validation": {
+				"mandatory": false
+			}
+		},
+		{
+			"type": "select",
+			"key": "gender",
+			"format": null,
+			"label": "Gender",
+			"placeholderText": null,
+			"options": [
+				{
+					"value": null,
+					"name": "--Select--"
+				},
+				{
+					"value": "Male",
+					"name": "Male"
+				},
+				{
+					"value": "Female",
+					"name": "Female"
+				}
+			],
+			"validation": {
+				"mandatory": true
+			}
+		}
+	],
+	"attachments": [
+		{
+			"key": "firstPage",
+			"label": "IT Front Page",
+			"mandatory": true,
+			"fileDetails": {
+				"key": "filename"
+			}
+		},
+		{
+			"key": "secondPage",
+			"label": "IT Last Page",
+			"mandatory": false,
+			"fileDetails": {
+				"key": "filename"
+			}
+		}
+	]
+}

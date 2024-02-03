@@ -1,0 +1,25 @@
+{
+  "docId": 13,
+  "metadata": [
+    {
+      "type": "date",
+      "key": "expiryDate",
+      "format": "dd/MM/yyyy",
+      "label": "Expiry Date",
+      "placeholderText": "DD/MM/YYYY",
+      "validation": {
+        "mandatory": true
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "key": "taxClearanceCertificate",
+      "label": "Tax Clearance Certificate",
+      "mandatory": true,
+      "fileDetails": {
+        "key": "filename"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1550 @@
+[
+  {
+    "countryCode": "AC",
+    "unicode": "U+1F1E6 U+1F1E8",
+    "countryName": "Ascension Island",
+    "countryLogo": "🇦🇨"
+  },
+  {
+    "countryCode": "AD",
+    "unicode": "U+1F1E6 U+1F1E9",
+    "countryName": "Andorra",
+    "countryLogo": "🇦🇩"
+  },
+  {
+    "countryCode": "AE",
+    "unicode": "U+1F1E6 U+1F1EA",
+    "countryName": "United Arab Emirates",
+    "countryLogo": "🇦🇪"
+  },
+  {
+    "countryCode": "AF",
+    "unicode": "U+1F1E6 U+1F1EB",
+    "countryName": "Afghanistan",
+    "countryLogo": "🇦🇫"
+  },
+  {
+    "countryCode": "AG",
+    "unicode": "U+1F1E6 U+1F1EC",
+    "countryName": "Antigua & Barbuda",
+    "countryLogo": "🇦🇬"
+  },
+  {
+    "countryCode": "AI",
+    "unicode": "U+1F1E6 U+1F1EE",
+    "countryName": "Anguilla",
+    "countryLogo": "🇦🇮"
+  },
+  {
+    "countryCode": "AL",
+    "unicode": "U+1F1E6 U+1F1F1",
+    "countryName": "Albania",
+    "countryLogo": "🇦🇱"
+  },
+  {
+    "countryCode": "AM",
+    "unicode": "U+1F1E6 U+1F1F2",
+    "countryName": "Armenia",
+    "countryLogo": "🇦🇲"
+  },
+  {
+    "countryCode": "AO",
+    "unicode": "U+1F1E6 U+1F1F4",
+    "countryName": "Angola",
+    "countryLogo": "🇦🇴"
+  },
+  {
+    "countryCode": "AQ",
+    "unicode": "U+1F1E6 U+1F1F6",
+    "countryName": "Antarctica",
+    "countryLogo": "🇦🇶"
+  },
+  {
+    "countryCode": "AR",
+    "unicode": "U+1F1E6 U+1F1F7",
+    "countryName": "Argentina",
+    "countryLogo": "🇦🇷"
+  },
+  {
+    "countryCode": "AS",
+    "unicode": "U+1F1E6 U+1F1F8",
+    "countryName": "American Samoa",
+    "countryLogo": "🇦🇸"
+  },
+  {
+    "countryCode": "AT",
+    "unicode": "U+1F1E6 U+1F1F9",
+    "countryName": "Austria",
+    "countryLogo": "🇦🇹"
+  },
+  {
+    "countryCode": "AU",
+    "unicode": "U+1F1E6 U+1F1FA",
+    "countryName": "Australia",
+    "countryLogo": "🇦🇺"
+  },
+  {
+    "countryCode": "AW",
+    "unicode": "U+1F1E6 U+1F1FC",
+    "countryName": "Aruba",
+    "countryLogo": "🇦🇼"
+  },
+  {
+      "countryCode": "AX",
+      "unicode": "U+1F1E6 U+1F1FD",
+      "countryName": "Aland Islands",
+      "countryLogo": "🇦🇽"
+  },
+  {
+    "countryCode": "AZ",
+    "unicode": "U+1F1E6 U+1F1FF",
+    "countryName": "Azerbaijan",
+    "countryLogo": "🇦🇿"
+  },
+  {
+    "countryCode": "BA",
+    "unicode": "U+1F1E7 U+1F1E6",
+    "countryName": "Bosnia & Herzegovina",
+    "countryLogo": "🇧🇦"
+  },
+  {
+    "countryCode": "BB",
+    "unicode": "U+1F1E7 U+1F1E7",
+    "countryName": "Barbados",
+    "countryLogo": "🇧🇧"
+  },
+  {
+    "countryCode": "BD",
+    "unicode": "U+1F1E7 U+1F1E9",
+    "countryName": "Bangladesh",
+    "countryLogo": "🇧🇩"
+  },
+  {
+    "countryCode": "BE",
+    "unicode": "U+1F1E7 U+1F1EA",
+    "countryName": "Belgium",
+    "countryLogo": "🇧🇪"
+  },
+  {
+    "countryCode": "BF",
+    "unicode": "U+1F1E7 U+1F1EB",
+    "countryName": "Burkina Faso",
+    "countryLogo": "🇧🇫"
+  },
+  {
+    "countryCode": "BG",
+    "unicode": "U+1F1E7 U+1F1EC",
+    "countryName": "Bulgaria",
+    "countryLogo": "🇧🇬"
+  },
+  {
+    "countryCode": "BH",
+    "unicode": "U+1F1E7 U+1F1ED",
+    "countryName": "Bahrain",
+    "countryLogo": "🇧🇭"
+  },
+  {
+    "countryCode": "BI",
+    "unicode": "U+1F1E7 U+1F1EE",
+    "countryName": "Burundi",
+    "countryLogo": "🇧🇮"
+  },
+  {
+    "countryCode": "BJ",
+    "unicode": "U+1F1E7 U+1F1EF",
+    "countryName": "Benin",
+    "countryLogo": "🇧🇯"
+  },
+    {
+        "countryCode": "BL",
+        "unicode": "U+1F1E7 U+1F1F1",
+        "countryName": "St. Barthelemy",
+        "countryLogo": "🇧🇱"
+    },
+  {
+    "countryCode": "BM",
+    "unicode": "U+1F1E7 U+1F1F2",
+    "countryName": "Bermuda",
+    "countryLogo": "🇧🇲"
+  },
+  {
+    "countryCode": "BN",
+    "unicode": "U+1F1E7 U+1F1F3",
+    "countryName": "Brunei",
+    "countryLogo": "🇧🇳"
+  },
+  {
+    "countryCode": "BO",
+    "unicode": "U+1F1E7 U+1F1F4",
+    "countryName": "Bolivia",
+    "countryLogo": "🇧🇴"
+  },
+  {
+    "countryCode": "BQ",
+    "unicode": "U+1F1E7 U+1F1F6",
+    "countryName": "Caribbean Netherlands",
+    "countryLogo": "🇧🇶"
+  },
+  {
+    "countryCode": "BR",
+    "unicode": "U+1F1E7 U+1F1F7",
+    "countryName": "Brazil",
+    "countryLogo": "🇧🇷"
+  },
+  {
+    "countryCode": "BS",
+    "unicode": "U+1F1E7 U+1F1F8",
+    "countryName": "Bahamas",
+    "countryLogo": "🇧🇸"
+  },
+  {
+    "countryCode": "BT",
+    "unicode": "U+1F1E7 U+1F1F9",
+    "countryName": "Bhutan",
+    "countryLogo": "🇧🇹"
+  },
+  {
+    "countryCode": "BV",
+    "unicode": "U+1F1E7 U+1F1FB",
+    "countryName": "Bouvet Island",
+    "countryLogo": "🇧🇻"
+  },
+  {
+    "countryCode": "BW",
+    "unicode": "U+1F1E7 U+1F1FC",
+    "countryName": "Botswana",
+    "countryLogo": "🇧🇼"
+  },
+  {
+    "countryCode": "BY",
+    "unicode": "U+1F1E7 U+1F1FE",
+    "countryName": "Belarus",
+    "countryLogo": "🇧🇾"
+  },
+  {
+    "countryCode": "BZ",
+    "unicode": "U+1F1E7 U+1F1FF",
+    "countryName": "Belize",
+    "countryLogo": "🇧🇿"
+  },
+  {
+    "countryCode": "CA",
+    "unicode": "U+1F1E8 U+1F1E6",
+    "countryName": "Canada",
+    "countryLogo": "🇨🇦"
+  },
+  {
+    "countryCode": "CC",
+    "unicode": "U+1F1E8 U+1F1E8",
+    "countryName": "Cocos (Keeling) Islands",
+    "countryLogo": "🇨🇨"
+  },
+  {
+    "countryCode": "CD",
+    "unicode": "U+1F1E8 U+1F1E9",
+    "countryName": "Congo - Kinshasa",
+    "countryLogo": "🇨🇩"
+  },
+  {
+    "countryCode": "CF",
+    "unicode": "U+1F1E8 U+1F1EB",
+    "countryName": "Central African Republic",
+    "countryLogo": "🇨🇫"
+  },
+  {
+    "countryCode": "CG",
+    "unicode": "U+1F1E8 U+1F1EC",
+    "countryName": "Congo - Brazzaville",
+    "countryLogo": "🇨🇬"
+  },
+  {
+    "countryCode": "CH",
+    "unicode": "U+1F1E8 U+1F1ED",
+    "countryName": "Switzerland",
+    "countryLogo": "🇨🇭"
+  },
+    {
+        "countryCode": "CI",
+        "unicode": "U+1F1E8 U+1F1EE",
+        "countryName": "Cote d'Ivoire",
+        "countryLogo": "🇨🇮"
+    },
+  {
+    "countryCode": "CK",
+    "unicode": "U+1F1E8 U+1F1F0",
+    "countryName": "Cook Islands",
+    "countryLogo": "🇨🇰"
+  },
+  {
+    "countryCode": "CL",
+    "unicode": "U+1F1E8 U+1F1F1",
+    "countryName": "Chile",
+    "countryLogo": "🇨🇱"
+  },
+  {
+    "countryCode": "CM",
+    "unicode": "U+1F1E8 U+1F1F2",
+    "countryName": "Cameroon",
+    "countryLogo": "🇨🇲"
+  },
+  {
+    "countryCode": "CN",
+    "unicode": "U+1F1E8 U+1F1F3",
+    "countryName": "China",
+    "countryLogo": "🇨🇳"
+  },
+  {
+    "countryCode": "CO",
+    "unicode": "U+1F1E8 U+1F1F4",
+    "countryName": "Colombia",
+    "countryLogo": "🇨🇴"
+  },
+  {
+    "countryCode": "CP",
+    "unicode": "U+1F1E8 U+1F1F5",
+    "countryName": "Clipperton Island",
+    "countryLogo": "🇨🇵"
+  },
+  {
+    "countryCode": "CR",
+    "unicode": "U+1F1E8 U+1F1F7",
+    "countryName": "Costa Rica",
+    "countryLogo": "🇨🇷"
+  },
+  {
+    "countryCode": "CU",
+    "unicode": "U+1F1E8 U+1F1FA",
+    "countryName": "Cuba",
+    "countryLogo": "🇨🇺"
+  },
+  {
+    "countryCode": "CV",
+    "unicode": "U+1F1E8 U+1F1FB",
+    "countryName": "Cape Verde",
+    "countryLogo": "🇨🇻"
+  },
+    {
+        "countryCode": "CW",
+        "unicode": "U+1F1E8 U+1F1FC",
+        "countryName": "Curacao",
+        "countryLogo": "🇨🇼"
+    },
+  {
+    "countryCode": "CX",
+    "unicode": "U+1F1E8 U+1F1FD",
+    "countryName": "Christmas Island",
+    "countryLogo": "🇨🇽"
+  },
+  {
+    "countryCode": "CY",
+    "unicode": "U+1F1E8 U+1F1FE",
+    "countryName": "Cyprus",
+    "countryLogo": "🇨🇾"
+  },
+  {
+    "countryCode": "CZ",
+    "unicode": "U+1F1E8 U+1F1FF",
+    "countryName": "Czechia",
+    "countryLogo": "🇨🇿"
+  },
+  {
+    "countryCode": "DE",
+    "unicode": "U+1F1E9 U+1F1EA",
+    "countryName": "Germany",
+    "countryLogo": "🇩🇪"
+  },
+  {
+    "countryCode": "DG",
+    "unicode": "U+1F1E9 U+1F1EC",
+    "countryName": "Diego Garcia",
+    "countryLogo": "🇩🇬"
+  },
+  {
+    "countryCode": "DJ",
+    "unicode": "U+1F1E9 U+1F1EF",
+    "countryName": "Djibouti",
+    "countryLogo": "🇩🇯"
+  },
+  {
+    "countryCode": "DK",
+    "unicode": "U+1F1E9 U+1F1F0",
+    "countryName": "Denmark",
+    "countryLogo": "🇩🇰"
+  },
+  {
+    "countryCode": "DM",
+    "unicode": "U+1F1E9 U+1F1F2",
+    "countryName": "Dominica",
+    "countryLogo": "🇩🇲"
+  },
+  {
+    "countryCode": "DO",
+    "unicode": "U+1F1E9 U+1F1F4",
+    "countryName": "Dominican Republic",
+    "countryLogo": "🇩🇴"
+  },
+  {
+    "countryCode": "DZ",
+    "unicode": "U+1F1E9 U+1F1FF",
+    "countryName": "Algeria",
+    "countryLogo": "🇩🇿"
+  },
+  {
+    "countryCode": "EA",
+    "unicode": "U+1F1EA U+1F1E6",
+    "countryName": "Ceuta & Melilla",
+    "countryLogo": "🇪🇦"
+  },
+  {
+    "countryCode": "EC",
+    "unicode": "U+1F1EA U+1F1E8",
+    "countryName": "Ecuador",
+    "countryLogo": "🇪🇨"
+  },
+  {
+    "countryCode": "EE",
+    "unicode": "U+1F1EA U+1F1EA",
+    "countryName": "Estonia",
+    "countryLogo": "🇪🇪"
+  },
+  {
+    "countryCode": "EG",
+    "unicode": "U+1F1EA U+1F1EC",
+    "countryName": "Egypt",
+    "countryLogo": "🇪🇬"
+  },
+  {
+    "countryCode": "EH",
+    "unicode": "U+1F1EA U+1F1ED",
+    "countryName": "Western Sahara",
+    "countryLogo": "🇪🇭"
+  },
+  {
+    "countryCode": "ER",
+    "unicode": "U+1F1EA U+1F1F7",
+    "countryName": "Eritrea",
+    "countryLogo": "🇪🇷"
+  },
+  {
+    "countryCode": "ES",
+    "unicode": "U+1F1EA U+1F1F8",
+    "countryName": "Spain",
+    "countryLogo": "🇪🇸"
+  },
+  {
+    "countryCode": "ET",
+    "unicode": "U+1F1EA U+1F1F9",
+    "countryName": "Ethiopia",
+    "countryLogo": "🇪🇹"
+  },
+  {
+    "countryCode": "EU",
+    "unicode": "U+1F1EA U+1F1FA",
+    "countryName": "European Union",
+    "countryLogo": "🇪🇺"
+  },
+  {
+    "countryCode": "FI",
+    "unicode": "U+1F1EB U+1F1EE",
+    "countryName": "Finland",
+    "countryLogo": "🇫🇮"
+  },
+  {
+    "countryCode": "FJ",
+    "unicode": "U+1F1EB U+1F1EF",
+    "countryName": "Fiji",
+    "countryLogo": "🇫🇯"
+  },
+  {
+    "countryCode": "FK",
+    "unicode": "U+1F1EB U+1F1F0",
+    "countryName": "Falkland Islands",
+    "countryLogo": "🇫🇰"
+  },
+  {
+    "countryCode": "FM",
+    "unicode": "U+1F1EB U+1F1F2",
+    "countryName": "Micronesia",
+    "countryLogo": "🇫🇲"
+  },
+  {
+    "countryCode": "FO",
+    "unicode": "U+1F1EB U+1F1F4",
+    "countryName": "Faroe Islands",
+    "countryLogo": "🇫🇴"
+  },
+  {
+    "countryCode": "FR",
+    "unicode": "U+1F1EB U+1F1F7",
+    "countryName": "France",
+    "countryLogo": "🇫🇷"
+  },
+  {
+    "countryCode": "GA",
+    "unicode": "U+1F1EC U+1F1E6",
+    "countryName": "Gabon",
+    "countryLogo": "🇬🇦"
+  },
+  {
+    "countryCode": "GB",
+    "unicode": "U+1F1EC U+1F1E7",
+    "countryName": "United Kingdom",
+    "countryLogo": "🇬🇧"
+  },
+  {
+    "countryCode": "GD",
+    "unicode": "U+1F1EC U+1F1E9",
+    "countryName": "Grenada",
+    "countryLogo": "🇬🇩"
+  },
+  {
+    "countryCode": "GE",
+    "unicode": "U+1F1EC U+1F1EA",
+    "countryName": "Georgia",
+    "countryLogo": "🇬🇪"
+  },
+  {
+    "countryCode": "GF",
+    "unicode": "U+1F1EC U+1F1EB",
+    "countryName": "French Guiana",
+    "countryLogo": "🇬🇫"
+  },
+  {
+    "countryCode": "GG",
+    "unicode": "U+1F1EC U+1F1EC",
+    "countryName": "Guernsey",
+    "countryLogo": "🇬🇬"
+  },
+  {
+    "countryCode": "GH",
+    "unicode": "U+1F1EC U+1F1ED",
+    "countryName": "Ghana",
+    "countryLogo": "🇬🇭"
+  },
+  {
+    "countryCode": "GI",
+    "unicode": "U+1F1EC U+1F1EE",
+    "countryName": "Gibraltar",
+    "countryLogo": "🇬🇮"
+  },
+  {
+    "countryCode": "GL",
+    "unicode": "U+1F1EC U+1F1F1",
+    "countryName": "Greenland",
+    "countryLogo": "🇬🇱"
+  },
+  {
+    "countryCode": "GM",
+    "unicode": "U+1F1EC U+1F1F2",
+    "countryName": "Gambia",
+    "countryLogo": "🇬🇲"
+  },
+  {
+    "countryCode": "GN",
+    "unicode": "U+1F1EC U+1F1F3",
+    "countryName": "Guinea",
+    "countryLogo": "🇬🇳"
+  },
+  {
+    "countryCode": "GP",
+    "unicode": "U+1F1EC U+1F1F5",
+    "countryName": "Guadeloupe",
+    "countryLogo": "🇬🇵"
+  },
+  {
+    "countryCode": "GQ",
+    "unicode": "U+1F1EC U+1F1F6",
+    "countryName": "Equatorial Guinea",
+    "countryLogo": "🇬🇶"
+  },
+  {
+    "countryCode": "GR",
+    "unicode": "U+1F1EC U+1F1F7",
+    "countryName": "Greece",
+    "countryLogo": "🇬🇷"
+  },
+  {
+    "countryCode": "GS",
+    "unicode": "U+1F1EC U+1F1F8",
+    "countryName": "South Georgia & South Sandwich Islands",
+    "countryLogo": "🇬🇸"
+  },
+  {
+    "countryCode": "GT",
+    "unicode": "U+1F1EC U+1F1F9",
+    "countryName": "Guatemala",
+    "countryLogo": "🇬🇹"
+  },
+  {
+    "countryCode": "GU",
+    "unicode": "U+1F1EC U+1F1FA",
+    "countryName": "Guam",
+    "countryLogo": "🇬🇺"
+  },
+  {
+    "countryCode": "GW",
+    "unicode": "U+1F1EC U+1F1FC",
+    "countryName": "Guinea-Bissau",
+    "countryLogo": "🇬🇼"
+  },
+  {
+    "countryCode": "GY",
+    "unicode": "U+1F1EC U+1F1FE",
+    "countryName": "Guyana",
+    "countryLogo": "🇬🇾"
+  },
+  {
+    "countryCode": "HK",
+    "unicode": "U+1F1ED U+1F1F0",
+    "countryName": "Hong Kong SAR China",
+    "countryLogo": "🇭🇰"
+  },
+  {
+    "countryCode": "HM",
+    "unicode": "U+1F1ED U+1F1F2",
+    "countryName": "Heard & McDonald Islands",
+    "countryLogo": "🇭🇲"
+  },
+  {
+    "countryCode": "HN",
+    "unicode": "U+1F1ED U+1F1F3",
+    "countryName": "Honduras",
+    "countryLogo": "🇭🇳"
+  },
+  {
+    "countryCode": "HR",
+    "unicode": "U+1F1ED U+1F1F7",
+    "countryName": "Croatia",
+    "countryLogo": "🇭🇷"
+  },
+  {
+    "countryCode": "HT",
+    "unicode": "U+1F1ED U+1F1F9",
+    "countryName": "Haiti",
+    "countryLogo": "🇭🇹"
+  },
+  {
+    "countryCode": "HU",
+    "unicode": "U+1F1ED U+1F1FA",
+    "countryName": "Hungary",
+    "countryLogo": "🇭🇺"
+  },
+  {
+    "countryCode": "IC",
+    "unicode": "U+1F1EE U+1F1E8",
+    "countryName": "Canary Islands",
+    "countryLogo": "🇮🇨"
+  },
+  {
+    "countryCode": "ID",
+    "unicode": "U+1F1EE U+1F1E9",
+    "countryName": "Indonesia",
+    "countryLogo": "🇮🇩"
+  },
+  {
+    "countryCode": "IE",
+    "unicode": "U+1F1EE U+1F1EA",
+    "countryName": "Ireland",
+    "countryLogo": "🇮🇪"
+  },
+  {
+    "countryCode": "IL",
+    "unicode": "U+1F1EE U+1F1F1",
+    "countryName": "Israel",
+    "countryLogo": "🇮🇱"
+  },
+  {
+    "countryCode": "IM",
+    "unicode": "U+1F1EE U+1F1F2",
+    "countryName": "Isle of Man",
+    "countryLogo": "🇮🇲"
+  },
+  {
+    "countryCode": "IN",
+    "unicode": "U+1F1EE U+1F1F3",
+    "countryName": "India",
+    "countryLogo": "🇮🇳"
+  },
+  {
+    "countryCode": "IO",
+    "unicode": "U+1F1EE U+1F1F4",
+    "countryName": "British Indian Ocean Territory",
+    "countryLogo": "🇮🇴"
+  },
+  {
+    "countryCode": "IQ",
+    "unicode": "U+1F1EE U+1F1F6",
+    "countryName": "Iraq",
+    "countryLogo": "🇮🇶"
+  },
+  {
+    "countryCode": "IR",
+    "unicode": "U+1F1EE U+1F1F7",
+    "countryName": "Iran",
+    "countryLogo": "🇮🇷"
+  },
+  {
+    "countryCode": "IS",
+    "unicode": "U+1F1EE U+1F1F8",
+    "countryName": "Iceland",
+    "countryLogo": "🇮🇸"
+  },
+  {
+    "countryCode": "IT",
+    "unicode": "U+1F1EE U+1F1F9",
+    "countryName": "Italy",
+    "countryLogo": "🇮🇹"
+  },
+  {
+    "countryCode": "JE",
+    "unicode": "U+1F1EF U+1F1EA",
+    "countryName": "Jersey",
+    "countryLogo": "🇯🇪"
+  },
+  {
+    "countryCode": "JM",
+    "unicode": "U+1F1EF U+1F1F2",
+    "countryName": "Jamaica",
+    "countryLogo": "🇯🇲"
+  },
+  {
+    "countryCode": "JO",
+    "unicode": "U+1F1EF U+1F1F4",
+    "countryName": "Jordan",
+    "countryLogo": "🇯🇴"
+  },
+  {
+    "countryCode": "JP",
+    "unicode": "U+1F1EF U+1F1F5",
+    "countryName": "Japan",
+    "countryLogo": "🇯🇵"
+  },
+  {
+    "countryCode": "KE",
+    "unicode": "U+1F1F0 U+1F1EA",
+    "countryName": "Kenya",
+    "countryLogo": "🇰🇪"
+  },
+  {
+    "countryCode": "KG",
+    "unicode": "U+1F1F0 U+1F1EC",
+    "countryName": "Kyrgyzstan",
+    "countryLogo": "🇰🇬"
+  },
+  {
+    "countryCode": "KH",
+    "unicode": "U+1F1F0 U+1F1ED",
+    "countryName": "Cambodia",
+    "countryLogo": "🇰🇭"
+  },
+  {
+    "countryCode": "KI",
+    "unicode": "U+1F1F0 U+1F1EE",
+    "countryName": "Kiribati",
+    "countryLogo": "🇰🇮"
+  },
+  {
+    "countryCode": "KM",
+    "unicode": "U+1F1F0 U+1F1F2",
+    "countryName": "Comoros",
+    "countryLogo": "🇰🇲"
+  },
+  {
+    "countryCode": "KN",
+    "unicode": "U+1F1F0 U+1F1F3",
+    "countryName": "St. Kitts & Nevis",
+    "countryLogo": "🇰🇳"
+  },
+  {
+    "countryCode": "KP",
+    "unicode": "U+1F1F0 U+1F1F5",
+    "countryName": "North Korea",
+    "countryLogo": "🇰🇵"
+  },
+  {
+    "countryCode": "KR",
+    "unicode": "U+1F1F0 U+1F1F7",
+    "countryName": "South Korea",
+    "countryLogo": "🇰🇷"
+  },
+  {
+    "countryCode": "KW",
+    "unicode": "U+1F1F0 U+1F1FC",
+    "countryName": "Kuwait",
+    "countryLogo": "🇰🇼"
+  },
+  {
+    "countryCode": "KY",
+    "unicode": "U+1F1F0 U+1F1FE",
+    "countryName": "Cayman Islands",
+    "countryLogo": "🇰🇾"
+  },
+  {
+    "countryCode": "KZ",
+    "unicode": "U+1F1F0 U+1F1FF",
+    "countryName": "Kazakhstan",
+    "countryLogo": "🇰🇿"
+  },
+  {
+    "countryCode": "LA",
+    "unicode": "U+1F1F1 U+1F1E6",
+    "countryName": "Laos",
+    "countryLogo": "🇱🇦"
+  },
+  {
+    "countryCode": "LB",
+    "unicode": "U+1F1F1 U+1F1E7",
+    "countryName": "Lebanon",
+    "countryLogo": "🇱🇧"
+  },
+  {
+    "countryCode": "LC",
+    "unicode": "U+1F1F1 U+1F1E8",
+    "countryName": "St. Lucia",
+    "countryLogo": "🇱🇨"
+  },
+  {
+    "countryCode": "LI",
+    "unicode": "U+1F1F1 U+1F1EE",
+    "countryName": "Liechtenstein",
+    "countryLogo": "🇱🇮"
+  },
+  {
+    "countryCode": "LK",
+    "unicode": "U+1F1F1 U+1F1F0",
+    "countryName": "Sri Lanka",
+    "countryLogo": "🇱🇰"
+  },
+  {
+    "countryCode": "LR",
+    "unicode": "U+1F1F1 U+1F1F7",
+    "countryName": "Liberia",
+    "countryLogo": "🇱🇷"
+  },
+  {
+    "countryCode": "LS",
+    "unicode": "U+1F1F1 U+1F1F8",
+    "countryName": "Lesotho",
+    "countryLogo": "🇱🇸"
+  },
+  {
+    "countryCode": "LT",
+    "unicode": "U+1F1F1 U+1F1F9",
+    "countryName": "Lithuania",
+    "countryLogo": "🇱🇹"
+  },
+  {
+    "countryCode": "LU",
+    "unicode": "U+1F1F1 U+1F1FA",
+    "countryName": "Luxembourg",
+    "countryLogo": "🇱🇺"
+  },
+  {
+    "countryCode": "LV",
+    "unicode": "U+1F1F1 U+1F1FB",
+    "countryName": "Latvia",
+    "countryLogo": "🇱🇻"
+  },
+  {
+    "countryCode": "LY",
+    "unicode": "U+1F1F1 U+1F1FE",
+    "countryName": "Libya",
+    "countryLogo": "🇱🇾"
+  },
+  {
+    "countryCode": "MA",
+    "unicode": "U+1F1F2 U+1F1E6",
+    "countryName": "Morocco",
+    "countryLogo": "🇲🇦"
+  },
+  {
+    "countryCode": "MC",
+    "unicode": "U+1F1F2 U+1F1E8",
+    "countryName": "Monaco",
+    "countryLogo": "🇲🇨"
+  },
+  {
+    "countryCode": "MD",
+    "unicode": "U+1F1F2 U+1F1E9",
+    "countryName": "Moldova",
+    "countryLogo": "🇲🇩"
+  },
+  {
+    "countryCode": "ME",
+    "unicode": "U+1F1F2 U+1F1EA",
+    "countryName": "Montenegro",
+    "countryLogo": "🇲🇪"
+  },
+  {
+    "countryCode": "MF",
+    "unicode": "U+1F1F2 U+1F1EB",
+    "countryName": "St. Martin",
+    "countryLogo": "🇲🇫"
+  },
+  {
+    "countryCode": "MG",
+    "unicode": "U+1F1F2 U+1F1EC",
+    "countryName": "Madagascar",
+    "countryLogo": "🇲🇬"
+  },
+  {
+    "countryCode": "MH",
+    "unicode": "U+1F1F2 U+1F1ED",
+    "countryName": "Marshall Islands",
+    "countryLogo": "🇲🇭"
+  },
+  {
+    "countryCode": "MK",
+    "unicode": "U+1F1F2 U+1F1F0",
+    "countryName": "Macedonia",
+    "countryLogo": "🇲🇰"
+  },
+  {
+    "countryCode": "ML",
+    "unicode": "U+1F1F2 U+1F1F1",
+    "countryName": "Mali",
+    "countryLogo": "🇲🇱"
+  },
+  {
+    "countryCode": "MM",
+    "unicode": "U+1F1F2 U+1F1F2",
+    "countryName": "Myanmar (Burma)",
+    "countryLogo": "🇲🇲"
+  },
+  {
+    "countryCode": "MN",
+    "unicode": "U+1F1F2 U+1F1F3",
+    "countryName": "Mongolia",
+    "countryLogo": "🇲🇳"
+  },
+  {
+    "countryCode": "MO",
+    "unicode": "U+1F1F2 U+1F1F4",
+    "countryName": "Macau SAR China",
+    "countryLogo": "🇲🇴"
+  },
+  {
+    "countryCode": "MP",
+    "unicode": "U+1F1F2 U+1F1F5",
+    "countryName": "Northern Mariana Islands",
+    "countryLogo": "🇲🇵"
+  },
+  {
+    "countryCode": "MQ",
+    "unicode": "U+1F1F2 U+1F1F6",
+    "countryName": "Martinique",
+    "countryLogo": "🇲🇶"
+  },
+  {
+    "countryCode": "MR",
+    "unicode": "U+1F1F2 U+1F1F7",
+    "countryName": "Mauritania",
+    "countryLogo": "🇲🇷"
+  },
+  {
+    "countryCode": "MS",
+    "unicode": "U+1F1F2 U+1F1F8",
+    "countryName": "Montserrat",
+    "countryLogo": "🇲🇸"
+  },
+  {
+    "countryCode": "MT",
+    "unicode": "U+1F1F2 U+1F1F9",
+    "countryName": "Malta",
+    "countryLogo": "🇲🇹"
+  },
+  {
+    "countryCode": "MU",
+    "unicode": "U+1F1F2 U+1F1FA",
+    "countryName": "Mauritius",
+    "countryLogo": "🇲🇺"
+  },
+  {
+    "countryCode": "MV",
+    "unicode": "U+1F1F2 U+1F1FB",
+    "countryName": "Maldives",
+    "countryLogo": "🇲🇻"
+  },
+  {
+    "countryCode": "MW",
+    "unicode": "U+1F1F2 U+1F1FC",
+    "countryName": "Malawi",
+    "countryLogo": "🇲🇼"
+  },
+  {
+    "countryCode": "MX",
+    "unicode": "U+1F1F2 U+1F1FD",
+    "countryName": "Mexico",
+    "countryLogo": "🇲🇽"
+  },
+  {
+    "countryCode": "MY",
+    "unicode": "U+1F1F2 U+1F1FE",
+    "countryName": "Malaysia",
+    "countryLogo": "🇲🇾"
+  },
+  {
+    "countryCode": "MZ",
+    "unicode": "U+1F1F2 U+1F1FF",
+    "countryName": "Mozambique",
+    "countryLogo": "🇲🇿"
+  },
+  {
+    "countryCode": "NA",
+    "unicode": "U+1F1F3 U+1F1E6",
+    "countryName": "Namibia",
+    "countryLogo": "🇳🇦"
+  },
+  {
+    "countryCode": "NC",
+    "unicode": "U+1F1F3 U+1F1E8",
+    "countryName": "New Caledonia",
+    "countryLogo": "🇳🇨"
+  },
+  {
+    "countryCode": "NE",
+    "unicode": "U+1F1F3 U+1F1EA",
+    "countryName": "Niger",
+    "countryLogo": "🇳🇪"
+  },
+  {
+    "countryCode": "NF",
+    "unicode": "U+1F1F3 U+1F1EB",
+    "countryName": "Norfolk Island",
+    "countryLogo": "🇳🇫"
+  },
+  {
+    "countryCode": "NG",
+    "unicode": "U+1F1F3 U+1F1EC",
+    "countryName": "Nigeria",
+    "countryLogo": "🇳🇬"
+  },
+  {
+    "countryCode": "NI",
+    "unicode": "U+1F1F3 U+1F1EE",
+    "countryName": "Nicaragua",
+    "countryLogo": "🇳🇮"
+  },
+  {
+    "countryCode": "NL",
+    "unicode": "U+1F1F3 U+1F1F1",
+    "countryName": "Netherlands",
+    "countryLogo": "🇳🇱"
+  },
+  {
+    "countryCode": "NO",
+    "unicode": "U+1F1F3 U+1F1F4",
+    "countryName": "Norway",
+    "countryLogo": "🇳🇴"
+  },
+  {
+    "countryCode": "NP",
+    "unicode": "U+1F1F3 U+1F1F5",
+    "countryName": "Nepal",
+    "countryLogo": "🇳🇵"
+  },
+  {
+    "countryCode": "NR",
+    "unicode": "U+1F1F3 U+1F1F7",
+    "countryName": "Nauru",
+    "countryLogo": "🇳🇷"
+  },
+  {
+    "countryCode": "NU",
+    "unicode": "U+1F1F3 U+1F1FA",
+    "countryName": "Niue",
+    "countryLogo": "🇳🇺"
+  },
+  {
+    "countryCode": "NZ",
+    "unicode": "U+1F1F3 U+1F1FF",
+    "countryName": "New Zealand",
+    "countryLogo": "🇳🇿"
+  },
+  {
+    "countryCode": "OM",
+    "unicode": "U+1F1F4 U+1F1F2",
+    "countryName": "Oman",
+    "countryLogo": "🇴🇲"
+  },
+  {
+    "countryCode": "PA",
+    "unicode": "U+1F1F5 U+1F1E6",
+    "countryName": "Panama",
+    "countryLogo": "🇵🇦"
+  },
+  {
+    "countryCode": "PE",
+    "unicode": "U+1F1F5 U+1F1EA",
+    "countryName": "Peru",
+    "countryLogo": "🇵🇪"
+  },
+  {
+    "countryCode": "PF",
+    "unicode": "U+1F1F5 U+1F1EB",
+    "countryName": "French Polynesia",
+    "countryLogo": "🇵🇫"
+  },
+  {
+    "countryCode": "PG",
+    "unicode": "U+1F1F5 U+1F1EC",
+    "countryName": "Papua New Guinea",
+    "countryLogo": "🇵🇬"
+  },
+  {
+    "countryCode": "PH",
+    "unicode": "U+1F1F5 U+1F1ED",
+    "countryName": "Philippines",
+    "countryLogo": "🇵🇭"
+  },
+  {
+    "countryCode": "PK",
+    "unicode": "U+1F1F5 U+1F1F0",
+    "countryName": "Pakistan",
+    "countryLogo": "🇵🇰"
+  },
+  {
+    "countryCode": "PL",
+    "unicode": "U+1F1F5 U+1F1F1",
+    "countryName": "Poland",
+    "countryLogo": "🇵🇱"
+  },
+  {
+    "countryCode": "PM",
+    "unicode": "U+1F1F5 U+1F1F2",
+    "countryName": "St. Pierre & Miquelon",
+    "countryLogo": "🇵🇲"
+  },
+  {
+    "countryCode": "PN",
+    "unicode": "U+1F1F5 U+1F1F3",
+    "countryName": "Pitcairn Islands",
+    "countryLogo": "🇵🇳"
+  },
+  {
+    "countryCode": "PR",
+    "unicode": "U+1F1F5 U+1F1F7",
+    "countryName": "Puerto Rico",
+    "countryLogo": "🇵🇷"
+  },
+  {
+    "countryCode": "PS",
+    "unicode": "U+1F1F5 U+1F1F8",
+    "countryName": "Palestinian Territories",
+    "countryLogo": "🇵🇸"
+  },
+  {
+    "countryCode": "PT",
+    "unicode": "U+1F1F5 U+1F1F9",
+    "countryName": "Portugal",
+    "countryLogo": "🇵🇹"
+  },
+  {
+    "countryCode": "PW",
+    "unicode": "U+1F1F5 U+1F1FC",
+    "countryName": "Palau",
+    "countryLogo": "🇵🇼"
+  },
+  {
+    "countryCode": "PY",
+    "unicode": "U+1F1F5 U+1F1FE",
+    "countryName": "Paraguay",
+    "countryLogo": "🇵🇾"
+  },
+  {
+    "countryCode": "QA",
+    "unicode": "U+1F1F6 U+1F1E6",
+    "countryName": "Qatar",
+    "countryLogo": "🇶🇦"
+  },
+    {
+        "countryCode": "RE",
+        "unicode": "U+1F1F7 U+1F1EA",
+        "countryName": "Reunion",
+        "countryLogo": "🇷🇪"
+    },
+  {
+    "countryCode": "RO",
+    "unicode": "U+1F1F7 U+1F1F4",
+    "countryName": "Romania",
+    "countryLogo": "🇷🇴"
+  },
+  {
+    "countryCode": "RS",
+    "unicode": "U+1F1F7 U+1F1F8",
+    "countryName": "Serbia",
+    "countryLogo": "🇷🇸"
+  },
+  {
+    "countryCode": "RU",
+    "unicode": "U+1F1F7 U+1F1FA",
+    "countryName": "Russia",
+    "countryLogo": "🇷🇺"
+  },
+  {
+    "countryCode": "RW",
+    "unicode": "U+1F1F7 U+1F1FC",
+    "countryName": "Rwanda",
+    "countryLogo": "🇷🇼"
+  },
+  {
+    "countryCode": "SA",
+    "unicode": "U+1F1F8 U+1F1E6",
+    "countryName": "Saudi Arabia",
+    "countryLogo": "🇸🇦"
+  },
+  {
+    "countryCode": "SB",
+    "unicode": "U+1F1F8 U+1F1E7",
+    "countryName": "Solomon Islands",
+    "countryLogo": "🇸🇧"
+  },
+  {
+    "countryCode": "SC",
+    "unicode": "U+1F1F8 U+1F1E8",
+    "countryName": "Seychelles",
+    "countryLogo": "🇸🇨"
+  },
+  {
+    "countryCode": "SD",
+    "unicode": "U+1F1F8 U+1F1E9",
+    "countryName": "Sudan",
+    "countryLogo": "🇸🇩"
+  },
+  {
+    "countryCode": "SE",
+    "unicode": "U+1F1F8 U+1F1EA",
+    "countryName": "Sweden",
+    "countryLogo": "🇸🇪"
+  },
+  {
+    "countryCode": "SG",
+    "unicode": "U+1F1F8 U+1F1EC",
+    "countryName": "Singapore",
+    "countryLogo": "🇸🇬"
+  },
+  {
+    "countryCode": "SH",
+    "unicode": "U+1F1F8 U+1F1ED",
+    "countryName": "St. Helena",
+    "countryLogo": "🇸🇭"
+  },
+  {
+    "countryCode": "SI",
+    "unicode": "U+1F1F8 U+1F1EE",
+    "countryName": "Slovenia",
+    "countryLogo": "🇸🇮"
+  },
+  {
+    "countryCode": "SJ",
+    "unicode": "U+1F1F8 U+1F1EF",
+    "countryName": "Svalbard & Jan Mayen",
+    "countryLogo": "🇸🇯"
+  },
+  {
+    "countryCode": "SK",
+    "unicode": "U+1F1F8 U+1F1F0",
+    "countryName": "Slovakia",
+    "countryLogo": "🇸🇰"
+  },
+  {
+    "countryCode": "SL",
+    "unicode": "U+1F1F8 U+1F1F1",
+    "countryName": "Sierra Leone",
+    "countryLogo": "🇸🇱"
+  },
+  {
+    "countryCode": "SM",
+    "unicode": "U+1F1F8 U+1F1F2",
+    "countryName": "San Marino",
+    "countryLogo": "🇸🇲"
+  },
+  {
+    "countryCode": "SN",
+    "unicode": "U+1F1F8 U+1F1F3",
+    "countryName": "Senegal",
+    "countryLogo": "🇸🇳"
+  },
+  {
+    "countryCode": "SO",
+    "unicode": "U+1F1F8 U+1F1F4",
+    "countryName": "Somalia",
+    "countryLogo": "🇸🇴"
+  },
+  {
+    "countryCode": "SR",
+    "unicode": "U+1F1F8 U+1F1F7",
+    "countryName": "Suriname",
+    "countryLogo": "🇸🇷"
+  },
+  {
+    "countryCode": "SS",
+    "unicode": "U+1F1F8 U+1F1F8",
+    "countryName": "South Sudan",
+    "countryLogo": "🇸🇸"
+  },
+    {
+        "countryCode": "ST",
+        "unicode": "U+1F1F8 U+1F1F9",
+        "countryName": "Sao Tome & Principe",
+        "countryLogo": "🇸🇹"
+    },
+  {
+    "countryCode": "SV",
+    "unicode": "U+1F1F8 U+1F1FB",
+    "countryName": "El Salvador",
+    "countryLogo": "🇸🇻"
+  },
+  {
+    "countryCode": "SX",
+    "unicode": "U+1F1F8 U+1F1FD",
+    "countryName": "Sint Maarten",
+    "countryLogo": "🇸🇽"
+  },
+  {
+    "countryCode": "SY",
+    "unicode": "U+1F1F8 U+1F1FE",
+    "countryName": "Syria",
+    "countryLogo": "🇸🇾"
+  },
+  {
+    "countryCode": "SZ",
+    "unicode": "U+1F1F8 U+1F1FF",
+    "countryName": "Swaziland",
+    "countryLogo": "🇸🇿"
+  },
+  {
+    "countryCode": "TA",
+    "unicode": "U+1F1F9 U+1F1E6",
+    "countryName": "Tristan da Cunha",
+    "countryLogo": "🇹🇦"
+  },
+  {
+    "countryCode": "TC",
+    "unicode": "U+1F1F9 U+1F1E8",
+    "countryName": "Turks & Caicos Islands",
+    "countryLogo": "🇹🇨"
+  },
+  {
+    "countryCode": "TD",
+    "unicode": "U+1F1F9 U+1F1E9",
+    "countryName": "Chad",
+    "countryLogo": "🇹🇩"
+  },
+  {
+    "countryCode": "TF",
+    "unicode": "U+1F1F9 U+1F1EB",
+    "countryName": "French Southern Territories",
+    "countryLogo": "🇹🇫"
+  },
+  {
+    "countryCode": "TG",
+    "unicode": "U+1F1F9 U+1F1EC",
+    "countryName": "Togo",
+    "countryLogo": "🇹🇬"
+  },
+  {
+    "countryCode": "TH",
+    "unicode": "U+1F1F9 U+1F1ED",
+    "countryName": "Thailand",
+    "countryLogo": "🇹🇭"
+  },
+  {
+    "countryCode": "TJ",
+    "unicode": "U+1F1F9 U+1F1EF",
+    "countryName": "Tajikistan",
+    "countryLogo": "🇹🇯"
+  },
+  {
+    "countryCode": "TK",
+    "unicode": "U+1F1F9 U+1F1F0",
+    "countryName": "Tokelau",
+    "countryLogo": "🇹🇰"
+  },
+  {
+    "countryCode": "TL",
+    "unicode": "U+1F1F9 U+1F1F1",
+    "countryName": "Timor-Leste",
+    "countryLogo": "🇹🇱"
+  },
+  {
+    "countryCode": "TM",
+    "unicode": "U+1F1F9 U+1F1F2",
+    "countryName": "Turkmenistan",
+    "countryLogo": "🇹🇲"
+  },
+  {
+    "countryCode": "TN",
+    "unicode": "U+1F1F9 U+1F1F3",
+    "countryName": "Tunisia",
+    "countryLogo": "🇹🇳"
+  },
+  {
+    "countryCode": "TO",
+    "unicode": "U+1F1F9 U+1F1F4",
+    "countryName": "Tonga",
+    "countryLogo": "🇹🇴"
+  },
+  {
+    "countryCode": "TR",
+    "unicode": "U+1F1F9 U+1F1F7",
+    "countryName": "Turkey",
+    "countryLogo": "🇹🇷"
+  },
+  {
+    "countryCode": "TT",
+    "unicode": "U+1F1F9 U+1F1F9",
+    "countryName": "Trinidad & Tobago",
+    "countryLogo": "🇹🇹"
+  },
+  {
+    "countryCode": "TV",
+    "unicode": "U+1F1F9 U+1F1FB",
+    "countryName": "Tuvalu",
+    "countryLogo": "🇹🇻"
+  },
+  {
+    "countryCode": "TW",
+    "unicode": "U+1F1F9 U+1F1FC",
+    "countryName": "Taiwan",
+    "countryLogo": "🇹🇼"
+  },
+  {
+    "countryCode": "TZ",
+    "unicode": "U+1F1F9 U+1F1FF",
+    "countryName": "Tanzania",
+    "countryLogo": "🇹🇿"
+  },
+  {
+    "countryCode": "UA",
+    "unicode": "U+1F1FA U+1F1E6",
+    "countryName": "Ukraine",
+    "countryLogo": "🇺🇦"
+  },
+  {
+    "countryCode": "UG",
+    "unicode": "U+1F1FA U+1F1EC",
+    "countryName": "Uganda",
+    "countryLogo": "🇺🇬"
+  },
+  {
+    "countryCode": "UM",
+    "unicode": "U+1F1FA U+1F1F2",
+    "countryName": "U.S. Outlying Islands",
+    "countryLogo": "🇺🇲"
+  },
+  {
+    "countryCode": "UN",
+    "unicode": "U+1F1FA U+1F1F3",
+    "countryName": "United Nations",
+    "countryLogo": "🇺🇳"
+  },
+  {
+    "countryCode": "US",
+    "unicode": "U+1F1FA U+1F1F8",
+    "countryName": "United States",
+    "countryLogo": "🇺🇸"
+  },
+  {
+    "countryCode": "UY",
+    "unicode": "U+1F1FA U+1F1FE",
+    "countryName": "Uruguay",
+    "countryLogo": "🇺🇾"
+  },
+  {
+    "countryCode": "UZ",
+    "unicode": "U+1F1FA U+1F1FF",
+    "countryName": "Uzbekistan",
+    "countryLogo": "🇺🇿"
+  },
+  {
+    "countryCode": "VA",
+    "unicode": "U+1F1FB U+1F1E6",
+    "countryName": "Vatican City",
+    "countryLogo": "🇻🇦"
+  },
+  {
+    "countryCode": "VC",
+    "unicode": "U+1F1FB U+1F1E8",
+    "countryName": "St. Vincent & Grenadines",
+    "countryLogo": "🇻🇨"
+  },
+  {
+    "countryCode": "VE",
+    "unicode": "U+1F1FB U+1F1EA",
+    "countryName": "Venezuela",
+    "countryLogo": "🇻🇪"
+  },
+  {
+    "countryCode": "VG",
+    "unicode": "U+1F1FB U+1F1EC",
+    "countryName": "British Virgin Islands",
+    "countryLogo": "🇻🇬"
+  },
+  {
+    "countryCode": "VI",
+    "unicode": "U+1F1FB U+1F1EE",
+    "countryName": "U.S. Virgin Islands",
+    "countryLogo": "🇻🇮"
+  },
+  {
+    "countryCode": "VN",
+    "unicode": "U+1F1FB U+1F1F3",
+    "countryName": "Vietnam",
+    "countryLogo": "🇻🇳"
+  },
+  {
+    "countryCode": "VU",
+    "unicode": "U+1F1FB U+1F1FA",
+    "countryName": "Vanuatu",
+    "countryLogo": "🇻🇺"
+  },
+  {
+    "countryCode": "WF",
+    "unicode": "U+1F1FC U+1F1EB",
+    "countryName": "Wallis & Futuna",
+    "countryLogo": "🇼🇫"
+  },
+  {
+    "countryCode": "WS",
+    "unicode": "U+1F1FC U+1F1F8",
+    "countryName": "Samoa",
+    "countryLogo": "🇼🇸"
+  },
+  {
+    "countryCode": "XK",
+    "unicode": "U+1F1FD U+1F1F0",
+    "countryName": "Kosovo",
+    "countryLogo": "🇽🇰"
+  },
+  {
+    "countryCode": "YE",
+    "unicode": "U+1F1FE U+1F1EA",
+    "countryName": "Yemen",
+    "countryLogo": "🇾🇪"
+  },
+  {
+    "countryCode": "YT",
+    "unicode": "U+1F1FE U+1F1F9",
+    "countryName": "Mayotte",
+    "countryLogo": "🇾🇹"
+  },
+  {
+    "countryCode": "ZA",
+    "unicode": "U+1F1FF U+1F1E6",
+    "countryName": "South Africa",
+    "countryLogo": "🇿🇦"
+  },
+  {
+    "countryCode": "ZM",
+    "unicode": "U+1F1FF U+1F1F2",
+    "countryName": "Zambia",
+    "countryLogo": "🇿🇲"
+  },
+  {
+    "countryCode": "ZW",
+    "unicode": "U+1F1FF U+1F1FC",
+    "countryName": "Zimbabwe",
+    "countryLogo": "🇿🇼"
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "docId": 9,
+  "metadata": [
+    {
+      "type": "textbox",
+      "key": "nameOfSource",
+      "format": "text",
+      "label": "Name of Source",
+      "placeholderText": "Name of Source",
+      "validation": {
+        "mandatory": true
+      }
+    },
+    {
+      "type": "textbox",
+      "key": "other",
+      "format": "text",
+      "label": "Other (Specify)",
+      "placeholderText": "Other (Specify)",
+      "validation": {
+        "mandatory": false
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "key": "firstPage",
+      "label": "Front Page",
+      "mandatory": true,
+      "fileDetails": {
+        "key": "firstPage"
+      }
+    },
+    {
+      "key": "secondPage",
+      "label": "Back Page",
+      "mandatory": false,
+      "fileDetails": {
+        "key": "firstPage"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "docId": 10,
+  "metadata": [
+    {
+      "type": "select",
+      "key": "residencialDetails",
+      "format": null,
+      "label": "Select Residencial Details",
+      "placeholderText": null,
+      "options": [
+        {
+          "value": null,
+          "name": "--Select Residencial Details--"
+        },
+        {
+          "value": "leaseAgreement",
+          "name": "Lease Agreement"
+        },
+        {
+          "value": "letterFromEmployer",
+          "name": "Letter From Employer"
+        },
+        {
+          "value": "titleDeedNumber",
+          "name": "Title Deed Number"
+        },
+        {
+          "value": "affidavit",
+          "name": "Affidavit"
+        },
+        {
+          "value": "utilityName",
+          "name": "Utility Name"
+        }
+      ],
+      "validation": {
+        "mandatory": true
+      }
+    },
+    {
+      "type": "textbox",
+      "key": "durationOfStay ",
+      "format": "text",
+      "label": "Duration of stay",
+      "placeholderText": "Duration of stay",
+      "validation": {
+        "mandatory": true
+      }
+    },
+    {
+      "type": "textbox",
+      "key": "others ",
+      "format": "text",
+      "label": "Others (Specific Details Of the Selected Residencial)",
+      "placeholderText": "Others",
+      "validation": {
+        "mandatory": false
+      }
+    },
+    {
+      "type": "textbox",
+      "key": "physicalAddress",
+      "format": "text",
+      "label": "Physical Address",
+      "placeholderText": "Physical Address",
+      "validation": {
+        "mandatory": true
+      }
+    },
+    {
+      "type": "textbox",
+      "key": "townCity",
+      "format": "text",
+      "label": "Town/City",
+      "placeholderText": "Town/City",
+      "validation": {
+        "mandatory": true
+      }
+    }
+  ],
+  "attachments": [
+    {
+      "key": "firstPage",
+      "label": "1. Proof of Residence ",
+      "mandatory": true,
+      "fileDetails": {
+        "key": "residenceAttachment"
+      }
+    }
+  ]
+}
