@@ -3,7 +3,7 @@ logging:
     ROOT: INFO
 
 server:
-  port: 9000
+  port: 9001
   compression:
     enabled: true
     mime-types: text/html,text/xml,text/plain,text/css, application/javascript, application/json
@@ -84,7 +84,7 @@ feign:
 
 
 base:
-  url: http://ge-staging-vm.eastus.cloudapp.azure.com
+  url: http://134.122.105.202
 
 #digitalipv:
 #  imagedir: ./certus/digital_ipv
