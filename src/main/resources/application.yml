@@ -56,8 +56,8 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: xxxxx@xxxxx.com
-    password: xxxxxxxx
+    username: obcafe22@gmail.com
+    password: fhan gnsr omoa kued
     protocol: smtp
     tls: true
     debug: true
