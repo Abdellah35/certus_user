@@ -105,13 +105,13 @@ public class CertusUserServiceApplication {
 				"Config Server: \t{}\n----------------------------------------------------------", configServerStatus);
 	}
 
-	/*@Bean
+	@Bean
 	public WebMvcConfigurer corsConfigurer() {
 		return new WebMvcConfigurerAdapter() {
 			public void addCorsMappings(CorsRegistry registry) {
 				registry.addMapping("/*").allowedOrigins("*");
 			}
 		};
-	}*/
+	}
 
 }
