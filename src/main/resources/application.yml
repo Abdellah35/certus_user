@@ -3,7 +3,7 @@ logging:
     ROOT: INFO
 
 server:
-  port: 9000
+  port: 9001
   compression:
     enabled: true
     mime-types: text/html,text/xml,text/plain,text/css, application/javascript, application/json
@@ -38,13 +38,13 @@ spring:
     url: jdbc:mysql://localhost:3306/certus_core_db?useUnicode=true&characterEncoding=utf8&useSSL=false&useLegacyDatetimeCode=false&serverTimezone=UTC
     username: root
     driver-class-name: com.mysql.cj.jdbc.Driver
-    password: Abdes3536
+    password: 1985Bot5wana
     jdbcUrl: ${spring.datasource.url}
   kycdatasource:
     url: jdbc:mysql://localhost:3306/kyc_db?useUnicode=true&characterEncoding=utf8&useSSL=false&useLegacyDatetimeCode=false&serverTimezone=UTC
     username: root
     driver-class-name: com.mysql.cj.jdbc.Driver
-    password: Abdes3536
+    password: 1985Bot5wana
     jdbcUrl: ${spring.kycdatasource.url}
   jpa:
     hibernate.dialect: org.hibernate.dialect.MySQL5Dialect
@@ -56,9 +56,8 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: xxxxx@xxxxx.com
-    password: xxxxxxxx
-    protocol: smtp
+    username: **********
+    password: **********
     tls: true
     debug: true
     properties:
@@ -84,7 +83,7 @@ feign:
 
 
 base:
-  url: http://ge-staging-vm.eastus.cloudapp.azure.com
+  url: http://134.122.105.202
 
 #digitalipv:
 #  imagedir: ./certus/digital_ipv
