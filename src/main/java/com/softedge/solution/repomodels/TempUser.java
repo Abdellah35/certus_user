@@ -1,6 +1,8 @@
 package com.softedge.solution.repomodels;
 
 import java.util.Date;
+import lombok.Data;
+import javax.persistence.*;
 
 @Entity
 @Table(name = "temp_user_tbl")
