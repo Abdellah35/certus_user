@@ -2,6 +2,9 @@ package com.softedge.solution.repomodels;
 
 import java.util.Date;
 
+@Entity
+@Table(name = "temp_user_tbl")
+@Data
 public class TempUser {
 
     private Long id;
